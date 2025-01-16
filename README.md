@@ -2,7 +2,7 @@
 
 ## 📂 /home
 
-I'm an undergraduate student at the University of California, Berkeley, studying Electrical Engineering and Computer Science. Graduating '2027! <img src="https://github.com/Nightxade/nightxade/edit/main/src/ucb-logo.png" width=30px>  
+I'm an undergraduate student at the University of California, Berkeley, studying Electrical Engineering and Computer Science. Graduating '2027!  
 
 ## 📂 /interests
 
