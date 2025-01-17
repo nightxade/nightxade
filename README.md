@@ -2,13 +2,14 @@
 
 ## 📂 /home
 
-I'm an undergraduate student at the University of California, Berkeley, studying Electrical Engineering and Computer Science. Graduating '2027!  
+I'm an undergraduate student at the University of California, Berkeley, studying Electrical Engineering and Computer Science.  
+Graduating '2027!  
 
 ## 📂 /interests
 
 ### 🚩 /interests/ctf
 ```rs
-assert_eq!("Cybersecurity Capture the Flag", acronyms::ctf)
+assert_eq!("Cybersecurity Capture the Flag", acronyms::ctf);
 ```
 love love love playing ctfs <3  
 (i'm addicted)  
@@ -45,7 +46,7 @@ world history (especially wars)
 
 ## 📂 /fun
 ``( •_•)O*¯`·.¸.·´¯`°Q(•_• )``  
-FORMULA 1 🏎️🏎️🏎️🏎️🏎️
+FORMULA 1 🏎️🏎️🏎️🏎️🏎️  
 Counter Strike + Valorant esports  
 Reading manhua  
 skiiiiiing  
