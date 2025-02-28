@@ -50,3 +50,6 @@ FORMULA 1 🏎️🏎️🏎️🏎️🏎️
 Counter Strike + Valorant esports  
 Reading manhua  
 skiiiiiing  
+
+## 📂 /stats
+[![my github stats](https://github-readme-stats.vercel.app/api?username=nightxade)](https://github.com/anuraghazra/github-readme-stats)
