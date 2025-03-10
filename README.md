@@ -30,9 +30,9 @@ here are some of my more interesting projects:
 [i pretend im a good doctor (sorta)](https://github.com/Nightxade/FederatedLearningHeartDisease)  
 [use this if you hate privacy](https://github.com/Nightxade/sha0)
 
-and some hackathon projects:
-[wowow blockchain and AI i love buzzwords](https://github.com/Nightxade/flare-gcp-hackathon-2025)
-[yay humanity :)](https://github.com/Nightxade/hack-for-humanity-2025)
+and some hackathon projects:  
+[wowow blockchain and AI i love buzzwords](https://github.com/Nightxade/flare-gcp-hackathon-2025)  
+[yay humanity :)](https://github.com/Nightxade/hack-for-humanity-2025)  
 
 ### ♾️ /interests/math
 $\text{my love for math} = \lim_{x \to 0} \frac{1}{x}$  
