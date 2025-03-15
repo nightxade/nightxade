@@ -57,4 +57,4 @@ skiiiiiing
 
 ## 📂 /stats
 [![my github stats](https://github-readme-stats.vercel.app/api?username=nightxade)](https://github.com/anuraghazra/github-readme-stats)  
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%" style="display: block; margin-left: auto; margin-right: auto;"></p>  
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400px" style="display: block; margin-left: auto; margin-right: auto;"></p>  
