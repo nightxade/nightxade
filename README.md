@@ -57,8 +57,8 @@ skiiiiiing
 
 ## 📂 /stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nightxade&theme=nightowl&show_icons=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nightxade&theme=nightowl&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightxade&theme=nightowl&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightxade&theme=nightowl&layout=compact" />
 </a>
