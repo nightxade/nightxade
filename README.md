@@ -14,7 +14,7 @@ assert_eq!("Cybersecurity Capture the Flag", acronyms::ctf);
 love love love playing ctfs <3  
 (i'm addicted)  
 
-crypto/pwn main on [reCAPTCHA the Flag](https://recaptcha.team/) (cue [laugh-track.mp3](https://github.com/Nightxade/nightxade/edit/main/src/laugh-track.mp3))  
+crypto/pwn main on Cosmic Bit Flip
 ^ dm me @nightxade on discord if you're interested in joining!  
 
 ### 💻 /interests/cs
