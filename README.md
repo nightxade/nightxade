@@ -35,7 +35,7 @@ and some hackathon projects:
 [yay humanity :)](https://github.com/Nightxade/hack-for-humanity-2025)  
 
 ### ♾️ /interests/math
-$\text{my love for math} = \lim_{x \to 0} \frac{1}{x}$  
+$\text{my love for math} = \lim_{x \to 0^{+}} \frac{1}{x}$  
 did a lot of math competitions in high school, still love math now!  
 studying abstract algebra right now, maybe will take the putnam  
 24 game is super fun  
