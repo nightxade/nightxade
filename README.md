@@ -1,18 +1,20 @@
 ## Heya! I'm nightxade :)
 
-**`[nightxade@github ~]$ whoami`**  
+**`───[nightxade@github ~]$ whoami`**  
 
 **nightxade** · */ˈnītˌSHād/*  
 an undergraduate student at the University of California, Berkeley, studying Electrical Engineering and Computer Sciences  
 
-**`[nightxade@github ~]$ cd interests`  
-`[nightxade@github ~/interests]$ cat ctf.txt`**  
+**`───[nightxade@github ~]$ cd interests`  
+`───[nightxade@github ~/interests]$ cat ctf.txt`**  
 
+**🚩 `/interests/ctf.txt`**  
 love love love playing ctfs <3  
 crypto/pwn main on Cosmic Bit Flip/Squid Proxy Lovers  
 
-**`[nightxade@github ~/interests]$ cat cs.txt`**  
+**`───[nightxade@github ~/interests]$ cat cs.txt`**  
 
+**💻 `/interests/cs.txt`**  
 fancy badges for my favorite languages:  
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
@@ -35,23 +37,26 @@ here are a few i found particularly interesting!
 - [Prequal](https://research.google/pubs/load-is-not-what-you-should-balance-introducing-prequal/)
 - [Sarathi Serve](https://www.usenix.org/system/files/osdi24-agrawal.pdf)
 
-**`[nightxade@github ~/interests]$ cat math.txt`**  
+**`───[nightxade@github ~/interests]$ cat math.txt`**  
 
+**♾️ `/interests/math.txt`**  
 $\text{my love for math} = \lim_{x \to 0^{+}} \frac{1}{x}$  
 did a lot of math competitions in high school, still enjoy math now! :>  
 studied abstract algebra and galois theory in college, maybe will take the putnam  
 ~~24~~ 1000 game is super fun  
 
-**`[nightxade@github ~/interests]$ cat misc.txt`**  
+**`───[nightxade@github ~/interests]$ cat misc.txt`**  
 
+**❓ `/interests/misc.txt`**  
 quantum computing
 literally anything cool in STEM (bio, chem, astronomy, physics, etc.)
 world history
 
-**`[nightxade@github ~]$ cd ..`  
-`[nightxade@github ~]$ cd misc`  
-`[nightxade@github ~/misc]$ cat hobbies.txt`**  
+**`───[nightxade@github ~]$ cd ..`  
+`───[nightxade@github ~]$ cd fun`  
+`───[nightxade@github ~/fun]$ cat hobbies.txt`**  
 
+**😊 `/fun/hobbies.txt`**  
 FORMULA 1 🏎️🏎️🏎️🏎️🏎️    
 Counter Strike + Valorant esports  
 Reading manhua  
