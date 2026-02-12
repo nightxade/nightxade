@@ -32,7 +32,7 @@ passionate about lots of things in cs :> here's a few of my favs
 really, really enjoy reading lots of cs books, papers, blogs, etc...
 here are a few i found particularly interesting!
 - [Meltdown](https://meltdownattack.com/)
-- [Rogue In-flight Data Load](https://mdsattacks.com/files/ridl.pdf)
+- [AI and Memory Wall](https://arxiv.org/abs/2403.14123)
 - [Caching with Delayed Hits](https://www.justinesherry.com/papers/atre-sigcomm20.pdf)
 - [Prequal](https://research.google/pubs/load-is-not-what-you-should-balance-introducing-prequal/)
 - [Sarathi Serve](https://www.usenix.org/system/files/osdi24-agrawal.pdf)
@@ -48,9 +48,9 @@ studied abstract algebra and galois theory in college, maybe will take the putna
 **`───[nightxade@github ~/interests]$ cat misc.txt`**  
 
 **❓ `/interests/misc.txt`**  
-quantum computing
-literally anything cool in STEM (bio, chem, astronomy, physics, etc.)
-world history
+quantum computing  
+literally anything cool in STEM (bio, chem, astronomy, physics, etc.)  
+world history  
 
 **`───[nightxade@github ~]$ cd ..`  
 `───[nightxade@github ~]$ cd fun`  
@@ -60,7 +60,7 @@ world history
 FORMULA 1 🏎️🏎️🏎️🏎️🏎️    
 Counter Strike + Valorant esports  
 Reading manhua  
-monkeytype  
+monkeytype (QWERTY, Colemak)  
 chess  
 skiiiiiing   
 
